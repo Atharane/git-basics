@@ -1,4 +1,4 @@
-# 👋 Greetings
+# 👋 Namaste
 The basic crash course for the newbies learning git & gitHub
 
 
