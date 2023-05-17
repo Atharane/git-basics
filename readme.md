@@ -1,5 +1,5 @@
 # 👋 Haido
-The basic crash course for the newbies learning git & github
+The basic crash course for the newbies learning git & gitHub
 
 
 ## What is Git?
